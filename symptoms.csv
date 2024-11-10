@@ -1,0 +1,450 @@
+Symptom_ID,Symptom,Symptom,Symptom,Symptom,Symptom
+1,abdominal pain
+2,acne
+3,allergic reaction
+4,anemia
+5,anxiety
+6,arthritis
+7,asthma
+8,back pain
+9,bloating
+10,blurred vision
+11,body aches
+12,brain fog
+13,breathing difficulty
+14,bronchitis
+15,bruising
+16,burning sensation
+17,canker sores
+18,chest pain
+19,chills
+20,chronic pain
+21,cold feet
+22,cold hands
+23,colic
+24,concentration problems
+25,constipation
+26,convulsions
+27,coughing up blood
+28,cramps
+29,dark urine
+30,dermatitis
+31,diarrhea
+32,dizziness
+33,dry mouth
+34,dry skin
+35,drowsiness
+36,earache
+37,eczema
+38,edema
+39,excessive sweating
+40,fainting
+41,fatigue
+42,flatulence
+43,flu-like symptoms
+44,fungal infection
+45,gingivitis
+46,hair loss
+47,headache
+48,hearing loss
+49,heart palpitations
+50,heart burn
+51,hemorrhoids
+52,hiccups
+53,high pressure
+54,high cholesterol
+55,hoarseness
+56,hypotension
+57,indigestion
+58,insomnia
+59,itching
+60,jaundice
+61,joint pain
+62,lethargy
+63,light-headedness
+64,low pressure
+65,low energy
+66,fever
+67,lump in throat
+68,lymphadenopathy
+69,malnutrition
+70,memory loss
+71,menstrual irregularities
+72,muscle cramps
+73,muscle pain
+74,nasal congestion
+75,nausea
+76,nervousness
+77,night sweats
+78,no appetite
+79,noisy breathing
+80,numbness
+81,palpitations
+82,paralysis
+83,persistent cough
+84,phlegm
+85,poor circulation
+86,post-nasal drip
+87,profuse sweating
+88,redness
+89,restless legs
+90,runny nose
+91,severe headache
+92,shortness breath
+93,skin rash
+94,sore throat
+95,spasms
+96,sudden weight gain
+97,sudden weight loss
+98,swelling
+99,teeth grinding
+100,thirst
+101,throat clearing
+102,tingling
+103,tinnitus
+104,toothache
+105,tremors
+106,ulcers
+107,unsteady gait
+108,upset stomach
+109,urinary urgency
+110,vertigo
+111,vision problems
+112,vomiting
+113,watery eyes
+114,weakness
+115,weight gain
+116,weight loss
+117,wheezing
+118,yellowing of skin
+119,abnormal bleeding
+120,abnormal movements
+121,acid reflux
+122,agitation
+123,anxiety attacks
+124,appetite loss
+125,arm pain
+126,attention deficits
+127,blood in stool
+128,body chills
+129,bone pain
+130,breathlessness
+131,bronchospasm
+132,bruising easily
+133,burning eyes
+134,burning urination
+135,chronic coughing
+136,chronic fatigue
+137,cold sweats
+138,cold intolerance
+139,colitis
+140,confusion
+141,coordination loss
+142,cough with phlegm
+143,coughing
+144,cracked skin
+145,dark circles
+146,dark stools
+147,dental pain
+148,depression
+149,diabetic symptoms
+150,difficulty breathing
+151,difficulty concentrating
+152,difficulty sleeping
+153,discolored nails
+154,disorientation
+155,dry eyes
+156,dry scalp
+157,enlarged lymph nodes
+158,erective dysfunction
+159,excessive urination
+160,excessive thirst
+161,headaches
+162,fungal infections
+163,gastric pain
+164,general weakness
+165,giddiness
+166,gum disease
+167,hair thinning
+168,halitosis
+169,hand tremors
+170,head congestion
+171,heart fluttering
+172,heart pain
+173,hives
+174,hoarse voice
+175,hypersensitivity
+176,impaired balance
+177,impaired concentration
+178,impaired memory
+179,inflammation
+180,intestinal cramps
+181,itchy eyes
+182,itchy scalp
+183,itchy skin
+184,joint stiffness
+185,knee pain
+186,lactose intolerance
+187,light-headed
+188,loss of balance
+189,loss of concentration
+190,loss of taste
+191,lump in neck
+192,lymph node swelling
+193,mental fatigue
+194,muscle ache
+195,muscle stiffness
+196,muscle weakness
+197,neck pain
+198,nerve pain
+199,night terrors
+200,nighttime urination
+201,nosebleeds
+202,overheating
+203,painful urination
+204,persistent fatigue
+205,phantom pain
+206,rapid heartbeat
+207,rash
+208,restless sleep
+209,scalp irritation
+210,scratchy throat
+211,severe migraines
+212,shakiness
+213,shivering
+214,skin irritation
+215,slurred speech
+216,sneezing
+217,sore muscles
+218,spitting up blood
+219,stomach cramps
+220,stomach pain
+221,stomach spasms
+222,stuffy nose
+223,sudden dizziness
+224,swallowing difficulty
+225,swollen glands
+226,swollen lymph nodes
+227,tachycardia
+228,temperature sensitivity
+229,throat irritation
+230,tingling sensation
+231,tooth sensitivity
+232,trembling
+233,trouble breathing
+234,ulcerated gums
+235,underarm odor
+236,unusual bruising
+237,urinating frequently
+238,urinary incontinence
+239,urinary pain
+240,vision changes
+241,voice loss
+242,weight changes
+243,weakness in limbs
+244,whistling breath
+245,white spots on tonsils
+246,wrinkled skin
+247,yawning excessively
+248,yellow eyes
+249,yellow nails
+250,zits
+251,achiness
+252,acidic taste
+253,addison's disease symptoms
+254,alopecia
+255,appendicitis
+256,arterial pain
+257,astigmatism
+258,autonomic dysregulation
+259,bacterial infection
+260,bleeding gums
+261,blood pressure fluctuations
+262,bone density loss
+263,bowel obstruction
+264,broken bones
+265,burning feet
+266,burning mouth
+267,bursitis
+268,cellulitis
+269,chest discomfort
+270,chronic cough
+271,chronic diarrhea
+272,chronic inflammation
+273,chronic sinusitis
+274,cold hands and feet
+275,coordination problems
+276,cracked lips
+277,cyanosis
+278,dandruff
+279,dark circles under eyes
+280,dementia symptoms
+281,diabetes symptoms
+282,difficulty swallowing
+283,double vision
+284,dry cough
+285,dyskinesia
+286,dyspnea
+287,ear pain
+288,electrolyte imbalance
+289,emotional distress
+290,enlarged prostate
+291,epileptic seizures
+292,excessive saliva
+293,eye irritation
+294,facial pain
+295,flaking skin
+296,food intolerance
+297,frequent colds
+298,gallbladder pain
+299,gastrointestinal issues
+300,genital itching
+301,heart murmur
+302,hyperglycemia
+303,hypertension
+304,hypoglycemia
+305,incontinence
+306,joint swelling
+307,larynx irritation
+308,lightheadedness
+309,liver pain
+310,loss of smell
+311,lung infection
+312,lymph node pain
+313,malaise
+314,menstrual cramps
+315,migraine
+316,nail discoloration
+317,non-healing sores
+318,orthostatic intolerance
+319,osteoporosis symptoms
+320,painful joints
+321,panic attacks
+322,partial blindness
+323,peeling skin
+324,peripheral neuropathy
+325,phantom sensations
+326,phobia reactions
+327,postnasal drip
+328,premature ejaculation
+329,psoriasis
+330,raynaud's phenomenon
+331,red eyes
+332,red spots on skin
+333,severe itching
+334,shaking chills
+335,skin bumps
+336,skin tags
+337,sleep apnea
+338,sleep disturbances
+339,slow healing
+340,sores in mouth
+341,stiff neck
+342,stomach ache
+343,stomach bloating
+344,stomach discomfort
+345,stomach ulcers
+346,stuttering
+347,swelling in limbs
+348,swelling in throat
+349,swollen joints
+350,tendonitis
+351,ulcerated skin
+352,unexplained bruises
+353,weak nails
+354,white patches in mouth
+355,abdominal cramping
+356,abnormal heart rhythms
+357,abscesses
+358,adrenal fatigue
+359,aortic pain
+360,appetite changes
+361,arthritic pain
+362,ataxia
+363,atrial fibrillation
+364,autoimmune response
+365,bacterial overgrowth
+366,balance issues
+367,bronchial congestion
+368,bruising tendency
+369,burning in abdomen
+370,cancer symptoms
+371,chest pressure
+372,chronic infection
+373,chronic insomnia
+374,cold sensitivity
+375,coronary pain
+376,cracked heels
+377,cramping pain
+378,dehydration
+379,dental abscess
+380,diabetes signs
+381,difficulty remembering
+382,dry lips
+383,ear discharge
+384,encephalitis symptoms
+385,erectile issues
+386,esophageal pain
+387,excessive fatigue
+388,eye discharge
+389,facial swelling
+390,fainting spells
+391,feeling faint
+392,flu symptoms
+393,frequent urination
+394,gastric distress
+395,gastritis
+396,goiter
+397,head pain
+398,heart arrhythmia
+399,hoarse throat
+400,hyperthyroidism
+401,hypothyroidism
+402,impotence
+403,inflamed gums
+404,intestinal gas
+405,itchy ears
+406,joint inflammation
+407,kidney pain
+408,labored breathing
+409,laryngitis
+410,liver inflammation
+411,loss of energy
+412,lung congestion
+413,lymph node enlargement
+414,memory issues
+415,menstrual discomfort
+416,menstrual irregularity
+417,muscle atrophy
+418,muscle cramping
+419,muscle spasms
+420,orthostatic hypotension
+421,pain in abdomen
+422,panic symptoms
+423,partial hearing loss
+424,premature hair loss
+425,pulmonary pain
+426,rashes
+427,rapid pulse
+428,raynaud's symptoms
+429,restlessness
+430,severe fatigue
+431,shaky hands
+432,sinus congestion
+433,skin dryness
+434,skin infection
+435,slow healing wounds
+436,sore mouth
+437,stomach swelling
+438,swelling in abdomen
+439,swelling in legs
+440,tachypnea
+441,testicular pain
+442,tooth decay
+443,tooth pain
+444,ulcerative colitis
+445,unexplained weight loss
+446,urinary retention
+447,weak muscles
+448,yellowing of eyes
+449,cold
